@@ -1,0 +1,5 @@
+id,title,severity,timestamp,file
+vuln-0001,Unauthenticated Player Data Exposure via Spectate Chat API,MEDIUM,2026-07-13 10:38:52 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Unauthenticated Property Ownership Data Exposure via Property Signs API,MEDIUM,2026-07-13 10:39:28 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Unauthenticated Marketplace and Economic Data Exposure,MEDIUM,2026-07-13 10:40:05 UTC,vulnerabilities/vuln-0003.md
+vuln-0004,Unauthenticated Server Infrastructure and Token Data Exposure,MEDIUM,2026-07-13 10:40:48 UTC,vulnerabilities/vuln-0004.md

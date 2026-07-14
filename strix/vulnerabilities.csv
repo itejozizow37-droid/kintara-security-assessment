@@ -1,0 +1,9 @@
+id,title,severity,timestamp,file
+vuln-0005,Unauthenticated Player Data Exposure Across 10+ API Endpoints in kintara.gg,HIGH,2026-07-12 23:00:41 UTC,vulnerabilities/vuln-0005.md
+vuln-0006,"Unauthenticated WebSocket Streams All Player Positions, Health, and Status Data",HIGH,2026-07-12 23:04:34 UTC,vulnerabilities/vuln-0006.md
+vuln-0001,Unauthenticated World Chat Exposure via /api/spectate/chat/bootstrap,MEDIUM,2026-07-12 22:59:17 UTC,vulnerabilities/vuln-0001.md
+vuln-0002,Unauthenticated Property Owner Data Exposure via /api/property-signs/status,MEDIUM,2026-07-12 22:59:39 UTC,vulnerabilities/vuln-0002.md
+vuln-0003,Unauthenticated Marketplace Data Exposure with Player Enumeration,MEDIUM,2026-07-12 23:00:03 UTC,vulnerabilities/vuln-0003.md
+vuln-0004,adminBypass Flag Exposure in /api/servers Response,MEDIUM,2026-07-12 23:00:36 UTC,vulnerabilities/vuln-0004.md
+vuln-0007,Information Disclosure in Service Worker - Internal Architecture and Deployment Details,MEDIUM,2026-07-12 23:05:07 UTC,vulnerabilities/vuln-0007.md
+vuln-0008,Client Configuration Exposure via /client-config.js and /api/version,MEDIUM,2026-07-12 23:05:37 UTC,vulnerabilities/vuln-0008.md
